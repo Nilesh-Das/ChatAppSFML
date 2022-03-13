@@ -1,0 +1,7 @@
+Client/client-chat
+Client/client.o
+Client/clientnetwork.o
+
+Server/server-chat
+Server/server.o
+Server/servernetwork.o
